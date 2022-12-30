@@ -1,0 +1,33 @@
+# Compiled Latex #
+##################
+*.aux
+*.out
+
+# Compiled Office #
+###################
+*.odt
+
+# Image files #
+###############
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Logs and databases #
+######################
+*.log
+
+# Archives #
+############
+*.gz
+
+.gitignore
+*.pdf
+process/
+
+*.cbz
+*.djvu
+
+"1. source/out/cache/"
